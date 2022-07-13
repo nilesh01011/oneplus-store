@@ -109,7 +109,7 @@ body.dark {
 
 .effect-wrap .effect-3 {
   left: 5%;
-  bottom: 25%;
+  bottom: 15%;
   font-size: 20px;
   color: var(--color-3);
   animation: spin_01 5s linear infinite;
